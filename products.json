@@ -1,0 +1,82 @@
+{
+  "Amazon": {
+    "US": {
+      "10": ["AMZ-US-10-2XJX84", "AMZ-US-10-AJ9QDL", "AMZ-US-10-PZ6M3N"],
+      "25": ["AMZ-US-25-XN1Z9L", "AMZ-US-25-JQ8MDE", "AMZ-US-25-G7H4TS"],
+      "50": ["AMZ-US-50-WE7Y4P", "AMZ-US-50-PLX8JK", "AMZ-US-50-RY7DHF"],
+      "100": ["AMZ-US-100-AZ39QW", "AMZ-US-100-GJ9T3S", "AMZ-US-100-HU2QXK"]
+    },
+    "UK": {
+      "10": ["AMZ-UK-10-JG9X2W", "AMZ-UK-10-DF3PKN", "AMZ-UK-10-AX5HQB"],
+      "25": ["AMZ-UK-25-TX4NJD", "AMZ-UK-25-VR9G3S", "AMZ-UK-25-MQ2D7F"]
+    },
+    "EU": {
+      "10": ["AMZ-EU-10-PL3DSA", "AMZ-EU-10-HU7KJX", "AMZ-EU-10-BX9LMW"]
+    }
+  },
+  "iTunes": {
+    "US": {
+      "10": ["ITUNES-US-10-KD8FPL", "ITUNES-US-10-NR4WZV", "ITUNES-US-10-HE3QAS"],
+      "25": ["ITUNES-US-25-FJ2L9X", "ITUNES-US-25-DK6ZVQ"],
+      "50": ["ITUNES-US-50-PL9VQX", "ITUNES-US-50-KJ8H4S"]
+    },
+    "GLOBAL": {
+      "10": ["ITUNES-GL-10-GX3LQP", "ITUNES-GL-10-NM5WZJ", "ITUNES-GL-10-HR7YQA"],
+      "25": ["ITUNES-GL-25-JD4R2T", "ITUNES-GL-25-ZH6YUP"]
+    }
+  },
+  "Google Play": {
+    "US": {
+      "10": ["GPLAY-US-10-ZD4R6Q", "GPLAY-US-10-XM7VPT", "GPLAY-US-10-BN9F5J"],
+      "25": ["GPLAY-US-25-NK3Z8H", "GPLAY-US-25-PT6YJL"]
+    },
+    "GLOBAL": {
+      "10": ["GPLAY-GL-10-VR7XPQ", "GPLAY-GL-10-FD9QKJ"],
+      "50": ["GPLAY-GL-50-QT8YJL", "GPLAY-GL-50-KN2R8D"]
+    }
+  },
+  "Flexepin": {
+    "GLOBAL": {
+      "10": ["FLEX-GL-10-DN6QXP", "FLEX-GL-10-HR7LZJ", "FLEX-GL-10-TK9D5S"],
+      "25": ["FLEX-GL-25-GP4YJM", "FLEX-GL-25-HT8XQR"],
+      "50": ["FLEX-GL-50-KM2D7J", "FLEX-GL-50-PL8QXR"],
+      "100": ["FLEX-GL-100-NR6YPJ", "FLEX-GL-100-ZD9WXT"]
+    }
+  },
+  "Crypto Voucher": {
+    "GLOBAL": {
+      "10": ["CVCH-GL-10-HQ4ZLP", "CVCH-GL-10-MX7TJR", "CVCH-GL-10-FP9YQK"],
+      "25": ["CVCH-GL-25-RK8JQP", "CVCH-GL-25-GD7ZYN", "CVCH-GL-25-BN4MHS"],
+      "50": ["CVCH-GL-50-NR9YQP", "CVCH-GL-50-LP7KJW", "CVCH-GL-50-JF8QZH"],
+      "100": ["CVCH-GL-100-HU5JKL", "CVCH-GL-100-RD7PQZ"]
+    }
+  },
+  "Razer Gold": {
+    "GLOBAL": {
+      "10": ["RZGL-GL-10-QK8MJT", "RZGL-GL-10-ZP4HND", "RZGL-GL-10-KM2R8X"],
+      "25": ["RZGL-GL-25-FP6TQV", "RZGL-GL-25-WD8HYR"],
+      "50": ["RZGL-GL-50-PL7QKM", "RZGL-GL-50-XR3ZJP"],
+      "100": ["RZGL-GL-100-GM9KJT", "RZGL-GL-100-QD5RZX"]
+    }
+  },
+  "Netflix": {
+    "US": {
+      "10": ["NFLX-US-10-PL3QXK", "NFLX-US-10-RD8YHT"],
+      "25": ["NFLX-US-25-KQ9TJM", "NFLX-US-25-HN7PRD"]
+    },
+    "GLOBAL": {
+      "10": ["NFLX-GL-10-QR6PKM", "NFLX-GL-10-HY3LZX"],
+      "50": ["NFLX-GL-50-NR8YQK", "NFLX-GL-50-WP2DJR"]
+    }
+  },
+  "Visa": {
+    "GLOBAL": {
+      "10": ["VISA-GL-10-FR7YQZ", "VISA-GL-10-PL8JXK", "VISA-GL-10-KM4TJR"],
+      "25": ["VISA-GL-25-QD9HYP", "VISA-GL-25-ZN2LJR"],
+      "50": ["VISA-GL-50-HK8PRT", "VISA-GL-50-MD3LQX"],
+      "100": ["VISA-GL-100-WR9YTP", "VISA-GL-100-QK6JDL"],
+      "200": ["VISA-GL-200-ZX8KLM", "VISA-GL-200-DN9TQH"],
+      "500": ["VISA-GL-500-QR3WLP", "VISA-GL-500-JT6YZN"]
+    }
+  }
+}
